@@ -4,8 +4,8 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 pygmentsUseClasses = true
-disqusShortname = "Anthony"
 paginate = 20
+disableComments = true
 
 [markup.highlight]
 style = "monokai"
