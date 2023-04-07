@@ -8,7 +8,7 @@ disqusShortname = "Anthony"
 paginate = 20
 
 [markup.highlight]
-style = "github-dark"
+style = "monokai"
 
 [params]
   author = "Anthony Falzetti"
