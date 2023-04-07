@@ -1,10 +1,10 @@
 ---
 title: "Tools that increase my productivity"
 date: 2022-10-13T16:37:42-06:00
-draft: true
+draft: false
 author: Anthony Falzetti
 categories:
-- Programming
+- Tools
 tags:
 - software
 - elixir
