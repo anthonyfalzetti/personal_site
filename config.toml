@@ -6,6 +6,7 @@ defaultcontentlanguage = "en"
 pygmentsUseClasses = true
 paginate = 20
 disableComments = true
+googleAnalytics = 'G-CGKSMQD3HM'
 
 [markup.highlight]
 style = "monokai"
