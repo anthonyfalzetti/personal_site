@@ -3,7 +3,7 @@ title = "Anthony Falzetti"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-pygmentsUseClasses = true
+pygmentsUseClasses = false
 paginate = 20
 disableComments = true
 googleAnalytics = 'G-CGKSMQD3HM'
@@ -46,3 +46,7 @@ style = "monokai"
   name = "Blog"
   weight = 1
   url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "about"
