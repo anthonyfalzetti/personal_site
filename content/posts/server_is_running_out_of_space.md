@@ -1,5 +1,5 @@
 ---
-title: "Server_is_running_out_of_space"
+title: "Server is running out of space"
 date: 2018-04-07T14:40:57-06:00
 draft: false
 ---

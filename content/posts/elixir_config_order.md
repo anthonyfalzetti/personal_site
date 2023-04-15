@@ -1,5 +1,5 @@
 ---
-title: "Learning the Elixir Config ORder"
+title: "Learning the Elixir Config Order"
 date: 2023-04-14T14:43:42-06:00
 draft: false
 author: Anthony Falzetti
